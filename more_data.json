@@ -3,36 +3,36 @@
         {
             "title":"果凍咩咩FB粉絲頁",
             "subTitle":"粉紅果凍與咩咩的日常生活紀錄!",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
+            "imageUrl":"https://i.imgur.com/aDSUIQx.png",
             "linkUrl":"fb://page/106726799994936"
         },
         {
             "title":"愛之船",
             "subTitle":"治癒的小遊戲",
-            "iconUrl":"https://i.imgur.com/2X8yN7l.png",
+            "imageUrl":"https://i.imgur.com/2X8yN7l.png",
             "linkUrl":"https://pinkpika.github.io/LoveBoat/"
         },
         {
             "title":"粉紅與咩咩(Line貼圖)",
             "subTitle":"粉紅果凍與咩咩的日常互動!",
-            "iconUrl":"https://i.imgur.com/SKCAX8K.png",
+            "imageUrl":"https://i.imgur.com/SKCAX8K.png",
             "linkUrl":"https://store.line.me/stickershop/product/1349068/zh-Hant"
         }
     ],
     "app": [
         {
             "title":"Facebook",
-            "icon":"https://i.imgur.com/aDSUIQx.png",
+            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
             "storeUrl":"fb://page/106726799994936"
         },
         {
             "title":"Facebook",
-            "icon":"https://i.imgur.com/aDSUIQx.png",
+            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
             "storeUrl":"fb://page/106726799994936"
         },
         {
             "title":"Facebook",
-            "icon":"https://i.imgur.com/aDSUIQx.png",
+            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
             "storeUrl":"fb://page/106726799994936"
         }
     ]
