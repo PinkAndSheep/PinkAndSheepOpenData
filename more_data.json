@@ -4,7 +4,7 @@
             "title":"果凍咩咩FB粉絲頁",
             "subTitle":"粉紅果凍與咩咩的日常生活紀錄!",
             "imageUrl":"https://i.imgur.com/aDSUIQx.png",
-            "linkUrl":"fb://page/106726799994936"
+            "linkUrl":"fb://page/?id=106726799994936"
         },
         {
             "title":"愛之船",
@@ -20,40 +20,5 @@
         }
     ],
     "app": [
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        },
-        {
-            "title":"Facebook",
-            "iconUrl":"https://i.imgur.com/aDSUIQx.png",
-            "storeUrl":"fb://page/106726799994936"
-        }
     ]
 }
