@@ -1,139 +1,135 @@
 [
 {
     "title":"多張測試+多行測試1234",
-    "content":"這是多張測試和多行測試的文章，所以會很長很長很長😆\n哈哈哈哈哈超級長的文章\n沒見過這麼長的文章呢ＱＱＱＱＱＱＱＱＱＱＱ實在是太厲害了ＱＱＱＱＱ完全看不完呀吃吃喝喝想吃甜點蛋糕巧克力最愛咩咩最愛果凍每天都要幸福快樂1234567890",
+    "content":"這是多張測試和多行測試的文章，所以會很長\n哈哈哈哈哈超級長的文章\n沒見過這麼長的文章呢ＱＱＱＱＱＱＱＱＱＱＱ實在是太厲害了ＱＱＱＱＱ完全看不完呀吃吃喝喝想吃甜點蛋糕巧克力最愛咩咩最愛果凍每天都要幸福快樂1234567890",
     "date":"2222/22/22",
-    "icon":"https://i.imgur.com/8pykbTy.png",
+    "ratio":1,
     "images":["https://i.imgur.com/8pykbTy.png","https://i.imgur.com/DmVysKz.png"]
 },
 {
     "title":"怕熱的果凍",
     "content":"果凍很怕熱ＱＱＱ咩咩會幫忙噴水幫他降溫，怕他融化了",
     "date":"2222/22/22",
-    "icon":"https://i.imgur.com/yEclZM4.png?1",
+    "ratio":1.43,
     "images":["https://i.imgur.com/itQnupG.png"]
 },
 {
     "title":"果凍咩咩扮鬼",
     "content":"果凍披上白布準備嚇咩咩",
     "date":"2222/22/22",
-    "icon":"https://i.imgur.com/SdfOjOH.png?1",
+    "ratio":1.70,
     "images":["https://i.imgur.com/ZpeTEL1.png"]
 },
 {
     "title":"咩咩遛果凍",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/QUmtxQp.png?1",
+    "ratio":1.50,
     "images":["https://i.imgur.com/MH6QKcS.png"]
 },
 {
     "title":"紙果凍",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/JHDwtfQ.jpg?1",
+    "ratio":1.60,
     "images":["https://i.imgur.com/yvo4qZT.jpg"]
 },
 {
     "title":"經痛咩",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/jzHjCff.png?1",
-    "images":["https://i.imgur.com/envN3oR.png"],
-    "saying":"最愛咩咩"
+    "ratio":1.09,
+    "images":["https://i.imgur.com/envN3oR.png"]
 },
 {
     "title":"果凍咩咩吃麵包",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/ZstT8bH.png?1",
+    "ratio":2.00,
     "images":["https://i.imgur.com/0fw0h8x.png"]
 },
 {
     "title":"記憶重置",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/VgoCbxo.jpg?1",
+    "ratio":0.6,
     "images":["https://i.imgur.com/vMWfXus.jpg"]
 },
 {
     "title":"上班思念",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/v0kMMMM.png?1",
-    "images":["https://i.imgur.com/IgQcW2Y.png"],
-    "saying":"最愛咩咩"
+    "ratio":1.25,
+    "images":["https://i.imgur.com/IgQcW2Y.png"]
 },
 {
     "title":"噩夢咩",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/3g66YgX.png?1",
-    "images":["https://i.imgur.com/2u2Wajx.png"],
-    "saying":"最愛咩咩"
+    "ratio":1.27,
+    "images":["https://i.imgur.com/2u2Wajx.png"]
 },
 {
     "title":"所謂咩牌",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/9yuBfGJ.jpg?1",
-    "images":["https://i.imgur.com/avBHuZv.jpg"],
-    "saying":"最愛咩咩"
+    "ratio":0.87,
+    "images":["https://i.imgur.com/avBHuZv.jpg"]
 },
 {
     "title":"果凍咩咩出遊去",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/p39Op88.jpg?1",
+    "ratio":1.24,
     "images":["https://i.imgur.com/uIbxNfX.jpg"]
 },
 {
     "title":"煩躁星期五",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/2f9eIm4.png?1",
+    "ratio":1.66,
     "images":["https://i.imgur.com/dNuDzo7.png"]
 },
 {
     "title":"吃飯停電",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/EcIRgap.png?1",
+    "ratio":1,
     "images":["https://i.imgur.com/N23CE9C.png"]
 },
 {
     "title":"海嘯上班",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/fCn5XUC.png?1",
+    "ratio":1.25,
     "images":["https://i.imgur.com/yUbp7fq.png"]
 },
 {
     "title":"萬聖派對",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/DqS15J3.jpg?1",
+    "ratio":1,
     "images":["https://i.imgur.com/yx0ajOK.jpg"]
 },
 {
     "title":"灑花咩咩",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/3r0Hlzt.png?1",
+    "ratio":1.44,
     "images":["https://i.imgur.com/mefg620.png"]
 },
 {
     "title":"難過星期日夜晚",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/S69V8Of.png?1",
+    "ratio":1.58,
     "images":["https://i.imgur.com/3BDQfuU.png"]
 },
 {
     "title":"滾石蟑螂",
     "content":"---",
     "date":"----/--/--",
-    "icon":"https://i.imgur.com/mGSAXsQ.jpg?1",
+    "ratio":1.40,
     "images":["https://i.imgur.com/zv1GuFf.jpg"]
 }
 ]
